@@ -1,4 +1,4 @@
-package lru_cache;
+package lrucache;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

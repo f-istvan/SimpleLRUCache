@@ -1,9 +1,9 @@
-package chache_tester;
+package chachetester;
 
 import java.util.Random;
 
 import services.MyService;
-import lru_cache.SimpleLRUCache;
+import lrucache.SimpleLRUCache;
 import mtm.interfaces.MethodsTimeMeasurement;
 
 public class CacheTesterMTM {

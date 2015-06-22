@@ -1,4 +1,4 @@
-package chache_tester;
+package chachetester;
 
 import mtm.implementations.SimpleMethodsTimeMeasurement;
 
